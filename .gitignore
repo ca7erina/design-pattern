@@ -1,0 +1,12 @@
+.*/
+.classpath
+.project
+.settings
+bin/
+target/
+idea/
+*.iml
+*.egg-info
+.cache-main
+dist/
+.factorypath
